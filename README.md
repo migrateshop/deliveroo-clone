@@ -1,8 +1,8 @@
 <h1 align="center"> Rental Script: Strategies and Tips to Succeed in your Rental Business</h1> 
 
-A [Deliveroo clone](https://migrateshop.com/deliveroo-clone/) is a pre-built app solution that looks like the essential features and capabilities of the popular food delivery platform Deliveroo. Entrepreneurs and developers can easily establish their own food delivery app using a Deliveroo clone instead of starting from scratch. These Deliveroo clone scripts are pre-built with necessary elements for establishing a food delivery service, including:
-
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“deliverooclone.png" src="https://github.com/migrateshop/deliveroo-clone/blob/main/images/deliveroo-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
+A [Deliveroo clone](https://migrateshop.com/deliveroo-clone/) is a pre-built app solution that looks like the essential features and capabilities of the popular food delivery platform Deliveroo. Entrepreneurs and developers can easily establish their own food delivery app using a Deliveroo clone instead of starting from scratch. These Deliveroo clone scripts are pre-built with necessary elements for establishing a food delivery service, including:
 
 * **User-friendly Interface:** The user-friendly interface lets customers explore menus, make orders, and monitor delivery.
 * **Restaurant Management:** Restaurants can manage profiles, menus, and order status.
